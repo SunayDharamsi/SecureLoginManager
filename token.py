@@ -1,0 +1,1 @@
+{"token": "INSERT YOUR TOKEN HERE", "refresh_token": "INSERT YOUR REFRESH TOKEN", "token_uri": "https://oauth2.googleapis.com/token", "client_id": "ENTER YOUR CLIENT ID", "client_secret": "ENTER YOUR CLIENT SECRET", "scopes": ["https://www.googleapis.com/auth/gmail.send"], "universe_domain": "googleapis.com", "account": "", "expiry": "2025-03-12T18:23:08.016728Z"}
